@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+ int main() {
+    int n,m,z , result;
+    cin>>n>>m>>z;
+    result=n+m+z;
+    cout<<result;
+    return 0;
+}
